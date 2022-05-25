@@ -2025,26 +2025,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png" group-title="Italy",Naturescape
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,group-title=SSC SPORTS 1 Abu Dhabi Sports 1 (1080p) Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 1",SPORTS 
 http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
-#EXTINF:-1,group-title=SSC SPORTS 2 (1080p) United Arab Emirates Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 2",SPORTS 
 http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
-#EXTINF:-1,group-title=SSC SPORTS 3 (1080p) United Arab Emirates Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 3",SPORTS  
 http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
-#EXTINF:-1,group-title= SSC SPORTS 4 (1080p) [Geo-blocked] Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 4",SPORTS  
 http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
-#EXTINF:-1,group-title=SSC SPORTS 5 (720p) United States English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 5",SPORTS  
 http://195.154.200.168:8004/play/a05o/index.m3u8
-#EXTINF:-1,group-title= SSC SPORTS 6 (720p) United States English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 6",SPORTS  
 http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
-#EXTINF:-1,group-title= SSC SPORTS 7 (360p) [Not 24/7] United States English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title="SSC SPORTS 7",SPORTS  
 http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 1",SPORTS 
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8 copied
-#EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 1 (1080p) Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 1",SPORTS 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 2 (1080p) United Arab Emirates Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 2",SPORTS  
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 3 (1080p) United Arab Emirates Arabic;English 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/4C560ED6-7825-4990-9777-422859941FF8.png" group-title=" Abu Dhabi Sports 3",SPORTS 
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1,group-title=SPORTS Abu Dhabi Sports 4 (1080p) [Geo-blocked] Arabic;English 
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
